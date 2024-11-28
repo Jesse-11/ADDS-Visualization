@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .data-structures, .sorting-algorithms {
+    margin-bottom: 20px;
+  }
+  
+  .data-structure, .sorting-algorithms button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .visualization {
+    border: 1px solid #ccc;
+    min-height: 200px;
+    padding: 10px;
+    margin-top: 20px;
+  }
